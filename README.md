@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kusanele
-- 👀 I’m interested in data science, machine learning, artificial intelligence
-- 🌱 I’m currently learning data science algorithms
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science, machine learning,artificial intelligence and climate research 
+- 🌱 I’m currently learning data science algorithms that can help the world eradicate climate change 
+- 💞️ I’m looking to collaborate on anything challenging 
 - 📫 How to reach me mpofukusanele@gmail.com
 
 <!---
