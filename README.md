@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sunnyk58418555" target="blank"><img src="https://img.shields.io/twitter/follow/sunnyk58418555?logo=twitter&style=for-the-badge" alt="sunnyk58418555" /></a> </p>
 
-<img align="right" alt = "Coding" width = "400" src = ""  </img>
+<img align="right" alt = "Coding" width = "400" src = "https://github.com/kusanele/kusanele/blob/733474419d37ec513ea8ea390a2adbf66242c6ae/1656590557136.jpg"  </img>
 
 - 🔭 I’m currently working on [Machine Learning project on twitter sentiment analysis](https://github.com/kusanele/Twitter_catfish_account_sentiment_analysis)
 
