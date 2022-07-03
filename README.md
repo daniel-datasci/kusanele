@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get Insights from Twitter messages using Tweepy Python library](https://medium.com/@mpofukusanele/how-to-get-insights-from-tweeter-messages-using-tweepy-python-library-749b1284125d?source=rss-50b9edea1004------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
