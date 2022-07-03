@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/sunnyk58418555" target="blank"><img src="https://img.shields.io/twitter/follow/sunnyk58418555?logo=twitter&style=for-the-badge" alt="sunnyk58418555" /></a> </p>
 
+<img align="right" alt = "Coding" width = "400" src = ""  </img>
+
 - 🔭 I’m currently working on [Machine Learning project on twitter sentiment analysis](https://github.com/kusanele/Twitter_catfish_account_sentiment_analysis)
 
 - 🌱 I’m currently learning **Unsupervised Machine Learning using Python**
