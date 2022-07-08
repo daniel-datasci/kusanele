@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Principal Component Analysis Clearly Explained](https://medium.com/@mpofukusanele/principal-component-analysis-clearly-explained-70f04355c441?source=rss-50b9edea1004------2)
 - [How to get Insights from Twitter messages using Tweepy Python library](https://medium.com/@mpofukusanele/how-to-get-insights-from-tweeter-messages-using-tweepy-python-library-749b1284125d?source=rss-50b9edea1004------2)
 <!-- BLOG-POST-LIST:END -->
 
