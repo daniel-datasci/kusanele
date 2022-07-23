@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Data Science “truths” You-Tubers and content creators will never tell you about.](https://medium.com/@mpofukusanele/5-data-science-truths-you-tubers-and-content-creators-will-never-tell-you-about-d9a68b900b9f?source=rss-50b9edea1004------2)
 - [5 Data Science books you should start reading right now](https://medium.com/@mpofukusanele/data-science-books-you-start-reading-right-now-f197052f65bf?source=rss-50b9edea1004------2)
 - [Principal Component Analysis Clearly Explained](https://medium.com/@mpofukusanele/principal-component-analysis-clearly-explained-70f04355c441?source=rss-50b9edea1004------2)
 - [How to get Insights from Twitter messages using Tweepy Python library](https://medium.com/@mpofukusanele/how-to-get-insights-from-tweeter-messages-using-tweepy-python-library-749b1284125d?source=rss-50b9edea1004------2)
