@@ -35,7 +35,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sunnyk58418555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunnyk58418555" height="30" width="40" /></a>
+<a href="https://twitter.com/Kusanele_Mpofu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kusanele_Mpofu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marble-kusanele-mpofu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marble-kusanele-mpofu" height="30" width="40" /></a>
 <a href="https://kaggle.com/wsc43bso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wsc43bso" height="30" width="40" /></a>
 <a href="https://medium.com/@mpofukusanele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mpofukusanele" height="30" width="40" /></a>
