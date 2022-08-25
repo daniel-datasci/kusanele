@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="left"> <a href="https://twitter.com/Kusanele_Mpofu" target="blank"><img src="https://img.shields.io/twitter/follow/Kusanele_Mpofu?logo=twitter&style=for-the-badge" alt="Kusanele_Mpofu" /></a> </p> 
-<p align="left"> <a href="https://linktr.ee/kusanele" target="blank">< src="Kusanele_Mpofu" /></a> </p>
+<p align="left"> <a href="https://linktr.ee/kusanele" target="blank">< ![download (12)](https://user-images.githubusercontent.com/100205503/186658989-cf1b9216-dfb5-4251-a1aa-c02df99d285b.png)alt="Kusanele_Mpofu" /></a> </p>
 
 <img align="right" alt = "Coding" width = "400" src = "https://github.com/kusanele/kusanele/blob/733474419d37ec513ea8ea390a2adbf66242c6ae/1656590557136.jpg">
 
