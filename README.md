@@ -5,23 +5,21 @@
 <p align="center"> <a href="https://linktr.ee/kusanele" target="blank"> More About Me </a> </p>
 
 
-- 🔭 I’m currently working on [Machine Learning project on twitter sentiment analysis](https://github.com/kusanele/Twitter_catfish_account_sentiment_analysis)
+- 🔭 I’m currently working on [Anything related to machine learning ](https://github.com/kusanele/Twitter_catfish_account_sentiment_analysis)
 
-- 🌱 I’m currently learning **Unsupervised Machine Learning using Python**
-
-- 👯 I’m looking to collaborate on [Unsupervised_Machine_Learning](https://github.com/kusanele/Unsupervised_Machine_Learning)
+- 🌱 I’m currently learning **Web App deployment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kusanele](https://github.com/kusanele)
 
 - 📝 I regularly write articles on [https://medium.com/@mpofukusanele](https://medium.com/@mpofukusanele)
 
-- 💬 Ask me about **Python, SQL, PowerBI**
+- 💬 Ask me about **Python, SQL, PowerBI, Supervised Leaning, Unsupervised Learning, NLP, Image Recognition**
 
 - 📫 How to reach me **mpofukusanele@gmail.com**
 
 - 📄 Know about my experiences [Medium](https://medium.com/@mpofukusanele)
 
-- ⚡ Fun fact **Theres nothing funny**
+- ⚡ Fun fact **There's nothing funny**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
