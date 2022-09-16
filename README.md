@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marble Kusanele Mpofu</h1>
+<h1 align="left">Hi 👋, I'm Marble Kusanele Mpofu</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
 
