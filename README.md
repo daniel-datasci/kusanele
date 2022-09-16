@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marble Kusanele Mpofu</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-![600x200not really](https://user-images.githubusercontent.com/100205503/190635093-4bd97719-4358-42d2-98e6-0a205a18e24b.jpg)
 
 
 <p align="left"> <a href="https://twitter.com/Kusanele_Mpofu" target="blank"><img src="https://img.shields.io/twitter/follow/Kusanele_Mpofu?logo=twitter&style=for-the-badge" alt="Kusanele_Mpofu" /></a> </p> 
