@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="center"> <a href="https://twitter.com/Kusanele_Mpofu" target="blank"><img src="https://img.shields.io/twitter/follow/Kusanele_Mpofu?logo=twitter&style=for-the-badge" alt="Kusanele_Mpofu" /></a> </p> 
-<p align="center"> <a href="https://linktr.ee/kusanele" target="blank"> More About Me </a> </p>
+<p align="center"> <a href="https://linktr.ee/marble_kusanele_mpofu" target="blank"> More About Me </a> </p>
 
 
 - 🔭 I’m currently working on [Anything related to machine learning ](https://github.com/kusanele/Twitter_catfish_account_sentiment_analysis)
