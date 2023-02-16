@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Things you should know about the future of data science.](https://medium.com/@mpofukusanele/5-things-you-should-know-about-the-future-of-data-science-6a26faf7f733?source=rss-50b9edea1004------2)
 - [Your first pull request for MDF](https://medium.com/@mpofukusanele/your-first-pull-request-for-mdf-870eec6f8598?source=rss-50b9edea1004------2)
 - [Everyone Struggles](https://medium.com/@mpofukusanele/everyone-struggles-cb8b601534f1?source=rss-50b9edea1004------2)
 - [Software Engineering, Web development and Data Science internships, Bootcamps and Leanerships](https://medium.com/@mpofukusanele/software-engineering-web-development-and-data-science-internships-bootcamps-and-leanerships-d4bb8e5a2d05?source=rss-50b9edea1004------2)
-- [5 Data Science “truths” You-Tubers and content creators will never tell you about.](https://medium.com/@mpofukusanele/5-data-science-truths-you-tubers-and-content-creators-will-never-tell-you-about-d9a68b900b9f?source=rss-50b9edea1004------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
